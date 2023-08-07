@@ -1,0 +1,471 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202307 will be lost/reset.
+# Last config file used to build this data file was /home/nyjfswq5ag06/tmp/awstats/awstats.consultai.nl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2695                
+POS_VISITOR 12129               
+POS_DAY 14465               
+POS_DOMAIN 3287                
+POS_LOGIN 3620                
+POS_ROBOT 3775                
+POS_WORMS 3987                
+POS_EMAILSENDER 4118                
+POS_EMAILRECEIVER 4261                
+POS_SESSION 14621               
+POS_SIDER 14817               
+POS_FILETYPES 4396                
+POS_DOWNLOADS 4619                
+POS_OS 6399                
+POS_BROWSER 6648                
+POS_SCREENSIZE 7153                
+POS_UNKNOWNREFERER 7227                
+POS_UNKNOWNREFERERBROWSER 7746                
+POS_ORIGIN 8011                
+POS_SEREFERRALS 8148                
+POS_PAGEREFS 8311                
+POS_SEARCHWORDS 8488                
+POS_KEYWORDS 8640                
+POS_MISC 2359                
+POS_ERRORS 8699                
+POS_CLUSTER 3476                
+POS_SIDER_404 8809                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230801011043 225 53087 11269804572585
+FirstTime 20230728072916
+LastTime 20230731180312
+LastUpdate 20230801050934 225 0 224 0 0
+TotalVisits 66                  
+TotalUnique 50                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 64                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 5 0
+1 7 12 19808 2 2 0
+2 0 0 0 1 1 0
+3 3 5 4873 5 6 231
+4 1 2 3198 0 2 0
+5 3 4 1325974 2 2 0
+6 2 2 4908 2 2 0
+7 36 65 106201 22 157 28367
+8 23 150 2569840 6 20 462
+9 23 60 92102 42 49 462
+10 24 36 99964 10 14 0
+11 8 12 23018 8 19 231
+12 10 45 1552930 7 13 693
+13 4 12 13588 7 12 693
+14 8 9 47085 1 3 0
+15 14 17 34181 2 4 0
+16 5 7 13475 2 2 0
+17 0 0 0 0 1 0
+18 2 4 6527 4 5 0
+19 2 28 31894 5 5 0
+20 0 0 0 1 1 0
+21 0 0 0 3 3 0
+22 0 0 0 0 1 0
+23 0 0 0 3 3 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+nl 133 368 5793927
+us 33 47 116001
+gb 3 10 9927
+be 2 4 6396
+de 2 34 5885
+gr 1 1 1963
+ua 1 4 10021
+in 0 1 2637
+hn 0 1 2809
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Go\-http\-client/ 3 2618 20230728074849 0
+no_user_agent 1 1963 20230728073123 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 75 4333126 0 0
+css 87 331178 0 0
+js 92 600357 0 0
+woff2 4 308640 0 0
+svg 5 6335 0 0
+Unknown 1 12536 0 0
+php 1 2979 0 0
+txt 36 2511 0 0
+html 169 351904 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 24
+/.well-known/pki-validation/FA8A2E74F580BDD77D5271F0744475BA.txt 10 0 788
+/.well-known/pki-validation/B785394BB0EC0D46E97CE1601DB02534.txt 4 0 315
+/.well-known/pki-validation/25C21227DB14962D11B4095B7FEAF4E1.txt 1 0 64
+/.well-known/pki-validation/72F3D72AE7AF147DEB5B3149F89811DE.txt 1 0 64
+/.well-known/pki-validation/EFAA3A19AC04D21C5B5EC8714DCC836F.txt 1 0 64
+/.well-known/pki-validation/7D49F60E5B7D67420D65368007635255.txt 1 0 64
+/.well-known/pki-validation/689E91FC4D08416C3200DA412B60F3F5.txt 1 0 64
+/.well-known/pki-validation/8AEDAB31183C3DA5FEC6D43CCCF8A78F.txt 1 0 64
+/.well-known/pki-validation/77479B84EA0C209D540B0ABF26BAF200.txt 1 0 64
+/.well-known/pki-validation/83E4AD44ECBB3A994A138A8F08D5C36C.txt 1 0 64
+/.well-known/pki-validation/97F3D5531FB71D5B049273D2D064B42F.txt 1 0 64
+/.well-known/pki-validation/835FF193CBD80F966DC532B88EF03337.txt 1 0 64
+/.well-known/pki-validation/975DE943598AFDBE3982C57EBD849D4B.txt 1 0 64
+/.well-known/pki-validation/9A5A46364CBD66D39CCA78B599DD5045.txt 1 0 64
+/.well-known/pki-validation/52840F7732C74F60B53F343EFD435854.txt 1 0 64
+/.well-known/pki-validation/961FD051DF744D2F694EBB7A53D39CBB.txt 1 0 64
+/.well-known/pki-validation/D41988A39A2E45C12562E37C86D0EEF5.txt 1 0 64
+/.well-known/pki-validation/7B9877D780D22C066D253D48537979B8.txt 1 0 64
+/.well-known/pki-validation/C7F4D1CAF6BE31A37A953789EA59AAA1.txt 1 0 64
+/.well-known/pki-validation/A67A24DE601B991F1EA210A35E3DEBC0.txt 1 0 64
+/.well-known/pki-validation/538BAC3D3B95367C2810B6AEB155494E.txt 1 0 64
+/.well-known/pki-validation/D682F084A67031221AAC8D97E51C9DE1.txt 1 0 64
+/.well-known/pki-validation/2F837A86A1017ADB3F1638F5F0DDDE79.txt 1 0 64
+/.well-known/pki-validation/291D530CB27A3A2142085BDD7C71C747.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 4 0
+ios_ipad 8 8
+macosx15 4 2
+Unknown 55 13
+winnt 1 1
+linux 7 7
+ios_iphone 7 3
+win7 2 1
+android 51 11
+macosx6 1 1
+androidmarshmallow 1 1
+win10 156 75
+android10 172 51
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+firefox23.0 1 1
+chrome110.0.5481.154 3 1
+safari16.2 4 2
+chrome79.0.3945.79 3 1
+chrome52.0.1556.98 1 1
+chrome112.0.0.0 6 3
+chrome104.0.0.0 49 11
+chrome108.0.0.0 14 4
+chrome83.0.4103.61 2 1
+chrome107.0.0.0 4 2
+firefox115.0 6 2
+netscape5.0 1 1
+chrome115.0.0.0 247 103
+mozilla 11 5
+chrome66.0.3359.181 2 2
+safari11.0 8 8
+firefox65.0 3 3
+chrome114.0.0.0 6 2
+Unknown 43 7
+chrome111.0.5563.116 48 9
+chrome37.0.2049.0 1 1
+chrome83.0.4103.97 4 4
+safari16.5.2 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+WhatsApp/2.23.14.79_A 20230731103538
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230730193324
+Installatron_Plugin/9.1.60/292 20230728072916
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230731180313
+Sectigo_DCV 20230728092901
+COMODO_DCV 20230731191150
+Ruby 20230730160207
+axios/1.4.0 20230728073349
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20230728091631
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Ruby 20230730160207
+axios/1.4.0 20230728073349
+Installatron_Plugin/9.1.60/292 20230728072916
+WhatsApp/2.23.14.79_A 20230731103538
+COMODO_DCV 20230731191150
+Sectigo_DCV 20230728092901
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 137 194
+From1 0 0
+From2 1 1
+From3 0 3
+From4 37 272
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://mail.consultai.nl 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 262 23786
+302 2 0
+301 12 2772
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 72
+/images/footer-logo.png 1 http://consultai.nl/
+/.git/config 3 -
+/apple-touch-icon-precomposed.png 2 -
+/images/icons/icon-7.png 1 http://consultai.nl/
+/images/resource/blog-image-3.jpg 1 http://consultai.nl/
+/js/jquery.fancybox.pack.js 6 http://consultai.nl/
+/images/logo.png 6 http://consultai.nl/
+/sendemail.php 2 http://consultai.nl/contact.html
+/images/background/banner-bg-3.png 5 http://consultai.nl/
+/.well-known/autoconfig/mail/config-v1.1.xml 1 -
+/images/background/banner-bg-1.png 1 http://consultai.nl/
+/images/icons/icon-9.png 1 http://consultai.nl/
+/images/favicon.png 1 http://consultai.nl/
+/css/responsive.css 6 http://consultai.nl/
+/server-status 3 -
+http://consultai.nl:80/ 1 -
+/apple-touch-icon-120x120.png 2 -
+/images/icons/icon-11.png 1 http://consultai.nl/
+/images/icons/icon-21.png 5 http://consultai.nl/
+/js/jquery.scrollTo.js 6 http://consultai.nl/
+/images/icons/icon-12.png 1 http://consultai.nl/
+/images/icons/icon-8.png 1 http://consultai.nl/
+/images/resource/featured-image-2.jpg 1 http://consultai.nl/
+/js/bootstrap.min.js 6 http://consultai.nl/
+/js/pagenav.js 6 http://consultai.nl/
+/script_deployment_test.js 2 http://consultai.nl/
+/js/validate.js 1 http://consultai.nl/
+/telescope/requests 3 -
+/images/resource/featured-image-3.jpg 1 http://consultai.nl/
+/images/icons/icon-10.png 1 http://consultai.nl/
+/js/jquery.js 6 http://consultai.nl/
+/images/resource/featured-image-1.jpg 1 http://consultai.nl/
+/css/bootstrap.css 6 http://consultai.nl/
+/_all_dbs 3 -
+/login.action 3 -
+/images/icons/icon-2.png 1 http://consultai.nl/
+/js/script.js 6 http://consultai.nl/
+/.well-known/security.txt 1 -
+/images/resource/banner-image-1.png 1 http://consultai.nl/
+/images/icons/icon-3.png 1 http://consultai.nl/
+/images/icons/icon-19.png 5 http://consultai.nl/
+/apple-touch-icon.png 2 -
+/.DS_Store 3 -
+/v2/_catalog 3 -
+/images/icons/icon-20.png 5 http://consultai.nl/
+/index.html 1 http://consultai.nl/
+/images/background/banner-image-1.png 5 http://consultai.nl/
+/style_pm_mobile_friendly.css 1 http://consultai.nl/
+/images/icons/icon-13.png 1 http://consultai.nl/
+/images/resource/author-thumb-1.jpg 1 http://consultai.nl/
+/images/resource/featured-image-4.png 1 http://consultai.nl/
+/images/icons/icon-18.png 5 http://consultai.nl/
+/debug/default/view 3 -
+/about 3 -
+/images/icons/icon-4.png 1 http://consultai.nl/
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/js/owl.js 6 http://consultai.nl/
+/css/style.css 6 http://consultai.nl/
+/s/439313e283e2530323e22393/_/ 3 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/images/resource/blog-image-2.jpg 1 http://consultai.nl/
+/images/icons/icon-6.png 1 http://consultai.nl/
+/images/icons/icon-5.png 1 http://consultai.nl/
+/config.json 3 -
+/.env 3 -
+/js/wow.js 6 http://consultai.nl/
+http://www.consultai.nl:80/ 1 -
+/.vscode/sftp.json 3 -
+/index-3-minimalist.html 3 http://consultai.nl/contact.html
+/ 71 -
+/images/icons/icon-1.png 1 http://consultai.nl/
+/images/resource/blog-image-1.jpg 1 http://consultai.nl/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 64
+31.20.219.119 73 192 3777244 20230731160842
+84.241.199.111 26 90 1904607 20230731153257
+89.205.136.143 15 36 50893 20230728093700
+80.56.18.101 5 15 16985 20230731130720
+184.94.240.88 3 3 33674 20230730140356
+34.204.199.249 2 2 791 20230728073349
+45.87.9.173 2 2 5099 20230731151618
+145.90.196.6 2 6 6774 20230728074522
+86.86.249.138 2 4 4135 20230731082308
+145.90.216.186 2 6 6774 20230728074543
+205.169.39.243 2 5 5200 20230728075002
+89.205.130.108 2 2 5170 20230731161659
+51.158.37.195 2 4 6396 20230731011115
+89.205.142.139 1 3 3397 20230728095838
+51.158.37.210 1 2 3198 20230731040123
+162.142.125.14 1 2 3389 20230731144336
+45.87.9.45 1 1 2645 20230731151619
+35.167.4.19 1 1 2454 20230730091908
+18.231.139.60 1 1 2454 20230730091907
+95.142.107.5 1 3 3397 20230731130534
+84.87.248.47 1 2 4360 20230731104348
+35.87.190.30 1 1 2454 20230730091655
+134.209.116.104 1 1 2454 20230731054434
+45.40.165.137 1 1 2454 20230730160207
+95.164.156.109 1 1 2454 20230730191818
+95.164.157.95 0 2 4783 
+45.139.67.107 0 1 2637 
+38.154.226.18 0 1 2637 
+209.127.106.178 0 1 2412 
+170.231.251.77 0 1 2809 
+191.102.174.222 0 1 2809 
+54.226.232.87 0 1 744 
+192.241.67.210 0 1 1999 
+87.236.176.238 1 1 2454 20230730193324
+38.154.198.113 0 1 744 
+170.231.251.42 1 1 2454 20230730102757
+15.228.214.224 1 1 2454 20230731011141
+45.87.9.156 1 1 2454 20230730091846
+164.90.184.31 1 1 2639 20230731072127
+162.142.125.12 1 3 4073 20230731180312
+104.248.225.156 1 1 2454 20230731013856
+167.248.133.50 1 2 3389 20230731110608
+87.236.176.250 0 1 744 
+38.154.214.130 0 1 2412 
+178.128.151.41 1 1 1963 20230728073123
+92.205.8.194 1 33 5157 20230728072916
+84.241.206.135 1 3 3397 20230729070035
+87.236.176.180 0 1 744 
+35.202.253.198 1 1 945 20230728073422
+15.228.20.95 1 1 2454 20230730091908
+95.164.159.253 0 1 2784 
+137.226.113.15 1 1 728 20230728091631
+89.205.135.212 1 3 3397 20230728102500
+45.87.9.254 1 1 2454 20230731011142
+34.69.140.31 1 1 945 20230728073307
+52.90.145.223 1 1 2454 20230731010749
+87.236.176.204 1 1 2454 20230730111320
+52.43.213.133 1 1 2454 20230730091801
+89.205.137.58 1 3 3397 20230731115656
+54.203.219.153 1 1 2645 20230731125912
+170.254.179.108 1 1 0 20230730102757
+91.199.212.132 0 4 333 
+54.186.110.219 1 1 2454 20230730091718
+54.190.105.36 1 1 2454 20230730111117
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20230728 30 92 86657 13
+20230729 3 16 13170 3
+20230730 57 178 2459591 24
+20230731 85 184 3390148 26
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 51
+15mn-30mn 6
+5mn-15mn 1
+30s-2mn 2
+30mn-1h 3
+1h+ 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 120 287379 49 44
+/pm/ 33 24354 12 15
+/contact.html 13 35263 1 2
+/fonts/fontawesome-webfont.woff2 4 308640 0 1
+http://consultai.nl:80/ 3 4908 3 3
+/cpanel 1 12536 0 0
+/deleteme.chac5qxd.php 1 2979 1 1
+END_SIDER
